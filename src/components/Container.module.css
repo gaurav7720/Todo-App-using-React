@@ -1,0 +1,20 @@
+.container{
+  background-color: #DAB785;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  min-width: 530px;
+ max-width: 530px;
+ display: block;
+ margin: auto;
+ margin-top: 10px;
+ 
+  
+
+ 
+  
+
+  text-align: center;
+
+  
+}

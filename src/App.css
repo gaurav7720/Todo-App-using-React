@@ -1,0 +1,13 @@
+input {
+  width: 100%;
+}
+
+.gb-button {
+  min-width: 80px;
+}
+
+.gb-row {
+  margin: 10px 5px;
+  justify-content: center;
+  align-items: center;
+}
